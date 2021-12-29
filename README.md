@@ -12,6 +12,11 @@
   <img align="center" alt="Wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
+  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
+  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  
   </div>
 
 - 🔭 I’m currently study on IFPB - Computer Engineering
