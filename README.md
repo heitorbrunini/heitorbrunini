@@ -21,6 +21,7 @@
   </div>
 
 - 🔭 I’m currently study on IFPB - Computer Engineering
+<img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
 - 🌱 I’m currently learning JAVASCRIPT
 - 👀 I'm Working on Spring Projects
 
