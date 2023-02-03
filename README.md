@@ -2,7 +2,7 @@
 
 <img src="github.png"/><br>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=heitorbrunini&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrunini&hide=html&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrunini&hide=html,ejs&layout=compact&langs_count=7&theme=nightowl"/>
  
   <hr>
   <h2>Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Heitor Brunini</h2>  <div style="display: inline_block">
