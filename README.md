@@ -1,28 +1,19 @@
 
 
 <img src="github.png"/><br>
-  <img height="210" src="https://github-readme-stats.vercel.app/api?username=heitorbrunini&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrunini&hide=html,ejs&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="210" src="https://github-readme-stats.vercel.app/api?username=heitorbrunini&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrunini&hide=html,ejs,Jupyter%20Notebook&layout=compact&langs_count=7&theme=nightowl&hide_border=true"/>
  
   <hr>
-  <h2>Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Heitor Brunini</h2>  <div style="display: inline_block">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Wes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
-  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
-  <img align="center" alt="Rafa-postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <h2>Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Heitor Brunini</h2>  <div style="display: inline_bl
+                                                                                                                                              
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,spring,postgres,mysql,python,css,html,gimp&theme=dark)](https://skillicons.dev)
   
   </div>
 
 - 🔭 I’m currently study on IFPB - Computer Engineering
 <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
-- 🌱 I’m currently learning JAVASCRIPT
+- 🌱 I’m currently learning KOTLIN
 - 👀 I'm Working on Spring Projects
 
 
