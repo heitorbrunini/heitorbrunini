@@ -14,7 +14,7 @@
 - 🔭 I’m currently study on IFPB - Computer Engineering
 <img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" align="right" width=150 /><br>
 - 🌱 I’m currently learning KOTLIN
-- 👀 I'm Working on Spring Projects
+- 👀 I'm Working on Android Projects
 
 
   
@@ -23,5 +23,6 @@
 <a href="https://www.linkedin.com/in/heitor-brunini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:heitor.brunini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/heitorbrunini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@heitorbrunini5571) &nbsp;
 </div>
 
