@@ -7,7 +7,7 @@
   <hr>
   <h2>Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Heitor Brunini</h2>  <div style="display: inline_bl
                                                                                                                                               
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,spring,postgres,mysql,python,css,html,gimp&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,python,js,css,html&theme=dark)](https://skillicons.dev)
   
   </div>
 
