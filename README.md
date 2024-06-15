@@ -25,4 +25,9 @@
 <a href="https://www.instagram.com/heitorbrunini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 [![Youtube Badge](https://img.shields.io/badge/YOUTUBE-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@heitorbrunini5571) &nbsp;
 </div>
+<br>
+<hr>
 
+## Check some Extra pins:
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&repo=b9games) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&repo=sds-dsmovie)
