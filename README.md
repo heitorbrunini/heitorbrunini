@@ -28,6 +28,14 @@
 <br>
 <hr>
 
-## Check some Extra pins:
+## Check some pins:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&repo=b9games) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&repo=sds-dsmovie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&repo=b9games&theme=nightowl&hide_border=true)](https://github.com/heitorbrunini/b9games) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&theme=nightowl&hide_border=true&repo=sds-dsmovie)](https://github.com/heitorbrunini/sds-dsmovie)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&repo=UML&theme=nightowl&hide_border=true)](https://github.com/heitorbrunini/UML) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&theme=nightowl&hide_border=true&repo=projeto-sds5)](https://github.com/heitorbrunini/projeto-sds5)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&repo=jdbc-fx&theme=nightowl&hide_border=true)](https://github.com/heitorbrunini/jdbc-fx) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&theme=nightowl&hide_border=true&repo=IEEE-IFPB)](https://github.com/heitorbrunini/IEEE-IFPB)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&repo=projeto-estatistica&theme=nightowl&hide_border=true)](https://github.com/heitorbrunini/projeto-estatistica) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heitorbrunini&theme=nightowl&hide_border=true&repo=curso-hcode-users)](https://github.com/heitorbrunini/curso-hcode-users)
+
+
