@@ -10,9 +10,9 @@
   
   </div>
 
-- 🔭 I’m currently study on IFPB - Computer Engineering
-- 🌱 I’m currently learning KOTLIN
-- 👀 I'm Working on Android Projects
+- 🔭 I’m currently finishing my study on IFPB - Computer Engineering
+- 🌱 I’m currently learning ServiceNow
+- 👀 I'm Working on Python Automation Projects at @Accenture
 
 
   
