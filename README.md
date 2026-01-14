@@ -8,7 +8,7 @@
   
   </div>
 
-- 🔭 I’m finish my study on IFPB - Computer Engineering
+- 🔭 I finish my study on IFPB - Computer Engineering
 - 🌱 I’m currently learning AI Automations
 - 👀 I'm Working on Python Automation Projects at @Accenture
 
